@@ -1,6 +1,7 @@
 import { useContext, useState, useEffect, createContext } from "react";
 
 import { auth } from "../firebaseConfig";
+import firebase from "firebase";
 
 const AuthContext = createContext();
 
@@ -23,6 +24,23 @@ export function AuthProvider({ children }) {
           resolve(ref);
         })
         .catch((error) => reject(error));
+    });
+
+    return promise;
+  };
+
+  const provider = new firebase.auth.GoogleAuthProvider();
+  const signInWithGoogle = () => {
+    let promise = new Promise((resolve, reject) => {
+      firebase
+        .auth()
+        .signInWithPopup(provider)
+        .then((ref) => {
+          resolve(ref);
+        })
+        .catch((error) => {
+          reject(error);
+        });
     });
 
     return promise;
@@ -73,6 +91,7 @@ export function AuthProvider({ children }) {
 
   const value = {
     currentUser,
+    signInWithGoogle,
     signup,
     signin,
     signout,

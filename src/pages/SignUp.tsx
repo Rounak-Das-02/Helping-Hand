@@ -10,7 +10,7 @@ function SignUp() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  const { signup } = useAuth();
+  const { signup, signInWithGoogle } = useAuth();
   function handleSubmit(event: any) {
     event.preventDefault();
 
@@ -34,6 +34,25 @@ function SignUp() {
         setLoading(false);
       });
   }
+
+  function signInWithGoogleHandler(event: any) {
+    event.preventDefault();
+
+    signInWithGoogle()
+      .then((response: any) => {
+        // console.log("RESPONSE : ", response);
+        setLoading(false);
+        navigate("/");
+        db.collection("users").doc(response.user.uid).set({
+          "First Name": response.user.displayName,
+          "Last Name": "",
+        });
+      })
+      .catch((error: any) => {
+        setError(error.message);
+        setLoading(false);
+      });
+  }
   return (
     <>
       {/* <form onSubmit={handleSubmit}>
@@ -48,7 +67,7 @@ function SignUp() {
 
         <button>Submit form!</button>
       </form> */}
-
+      <button onClick={signInWithGoogleHandler}>Register with Google</button>
       <body className="font-mono bg-gray-400">
         <div className="container mx-auto">
           <div className="flex justify-center px-6 my-12">
