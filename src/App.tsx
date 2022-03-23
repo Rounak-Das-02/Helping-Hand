@@ -7,6 +7,8 @@ import SignIn from "./pages/SignIn";
 import Profile from "./pages/Profile";
 import SignOut from "./pages/SignOut";
 import SignUp from "./pages/SignUp";
+import ResetPassword from "./pages/ResetPassword";
+import Error from "./pages/Error";
 
 function App() {
   return (
@@ -46,6 +48,24 @@ function App() {
               element={
                 <React.Suspense fallback={<></>}>
                   <SignUp></SignUp>
+                </React.Suspense>
+              }
+            />
+
+            <Route
+              path="/reset"
+              element={
+                <React.Suspense fallback={<></>}>
+                  <ResetPassword />
+                </React.Suspense>
+              }
+            />
+
+            <Route
+              path="*"
+              element={
+                <React.Suspense fallback={<></>}>
+                  <Error />
                 </React.Suspense>
               }
             />

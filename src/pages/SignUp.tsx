@@ -30,6 +30,7 @@ function SignUp() {
           });
       })
       .catch((error: any) => {
+        alert(error.message);
         setError(error.message);
         setLoading(false);
       });
@@ -55,128 +56,144 @@ function SignUp() {
   }
   return (
     <>
-      {/* <form onSubmit={handleSubmit}>
-        <label htmlFor="username">Enter username</label>
-        <input id="username" name="username" type="text" />
-
-        <label htmlFor="email">Enter your email</label>
-        <input id="email" name="email" type="email" />
-
-        <label htmlFor="password">Password</label>
-        <input id="password" name="password" type="text" />
-
-        <button>Submit form!</button>
-      </form> */}
-      <button onClick={signInWithGoogleHandler}>Register with Google</button>
-      <body className="font-mono bg-gray-400">
-        <div className="container mx-auto">
-          <div className="flex justify-center px-6 my-12">
-            <div className="w-full xl:w-3/4 lg:w-11/12 flex">
-              <div
-                className="w-full h-auto bg-gray-400 hidden lg:block lg:w-5/12 bg-cover rounded-l-lg"
-                style={{
-                  backgroundImage:
-                    "url(" +
-                    "https://source.unsplash.com/Mv9hjnEUHR4/600x800" +
-                    ")",
-                }}
-              ></div>
-
-              <div className="w-full lg:w-7/12 bg-white p-5 rounded-lg lg:rounded-l-none">
-                <h3 className="pt-4 text-2xl text-center">
-                  Create an Account!
-                </h3>
-                <form
-                  className="px-8 pt-6 pb-8 mb-4 bg-white rounded"
-                  onSubmit={handleSubmit}
-                >
-                  <div className="mb-4 md:flex md:justify-between">
-                    <div className="mb-4 md:mr-2 md:mb-0">
-                      <label
-                        className="block mb-2 text-sm font-bold text-gray-700"
-                        htmlFor="firstName"
-                      >
-                        First Name
-                      </label>
+      <body>
+        <div className="flex items-center min-h-screen bg-gray-50">
+          <div className="flex-1 h-full max-w-4xl mx-auto bg-white rounded-lg shadow-xl">
+            <div className="flex flex-col md:flex-row">
+              <div className="h-32 md:h-auto md:w-1/2">
+                <img
+                  className="object-cover w-full h-full"
+                  src="https://source.unsplash.com/user/erondu/1600x900"
+                  alt="img"
+                />
+              </div>
+              <div className="flex items-center justify-center p-6 sm:p-12 md:w-1/2">
+                <div className="w-full">
+                  <div className="flex justify-center">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="w-20 h-20 text-blue-600"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                    >
+                      <path d="M12 14l9-5-9-5-9 5 9 5z" />
+                      <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                      <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                      />
+                    </svg>
+                  </div>
+                  <h1 className="mb-4 text-2xl font-bold text-center text-gray-700">
+                    Sign Up!
+                  </h1>
+                  <form onSubmit={handleSubmit}>
+                    <div>
+                      <label className="block text-sm">Email</label>
                       <input
-                        className="w-full px-3 py-2 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
+                        type="email"
+                        name="email"
+                        id="email"
+                        className="w-full px-4 py-2 text-sm border rounded-md focus:border-blue-400 focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder=""
+                        required
+                      />
+                    </div>
+                    <div>
+                      <label className="block mt-4 text-sm">Password</label>
+                      <input
+                        id="password"
+                        name="password"
+                        className="w-full px-4 py-2 text-sm border rounded-md focus:border-blue-400 focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder=""
+                        type="password"
+                        required
+                      />
+                    </div>
+
+                    <div>
+                      <label className="block mt-4 text-sm">First Name</label>
+                      <input
                         id="firstName"
                         name="firstName"
+                        className="w-full px-4 py-2 text-sm border rounded-md focus:border-blue-400 focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder=""
                         type="text"
-                        placeholder="First Name"
+                        required
                       />
                     </div>
-                    <div className="md:ml-2">
-                      <label
-                        className="block mb-2 text-sm font-bold text-gray-700"
-                        htmlFor="lastName"
-                      >
-                        Last Name
-                      </label>
+
+                    <div>
+                      <label className="block mt-4 text-sm">Last Name</label>
                       <input
-                        className="w-full px-3 py-2 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
                         id="lastName"
                         name="lastName"
+                        className="w-full px-4 py-2 text-sm border rounded-md focus:border-blue-400 focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder=""
                         type="text"
-                        placeholder="Last Name"
                       />
                     </div>
-                  </div>
-                  <div className="mb-4">
-                    <label
-                      className="block mb-2 text-sm font-bold text-gray-700"
-                      htmlFor="email"
+
+                    <button className="block w-full px-4 py-2 mt-4 text-sm font-medium leading-5 text-center text-white transition-colors duration-150 bg-blue-600 border border-transparent rounded-lg active:bg-blue-600 hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue">
+                      Sign Up
+                    </button>
+                  </form>
+
+                  <hr className="my-8" />
+                  <div className="flex items-center justify-center gap-4">
+                    <button
+                      onClick={signInWithGoogleHandler}
+                      className="flex items-center justify-center w-full px-4 py-2 text-sm text-gray-700 border border-gray-300 rounded-lg hover:border-gray-500 focus:border-gray-500"
                     >
-                      Email
-                    </label>
-                    <input
-                      className="w-full px-3 py-2 mb-3 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
-                      id="email"
-                      name="email"
-                      type="email"
-                      placeholder="Email"
-                    />
-                  </div>
-                  <div className="mb-4 md:flex md:justify-between">
-                    <div className="mb-4 md:mr-2 md:mb-0">
-                      <label
-                        className="block mb-2 text-sm font-bold text-gray-700"
-                        htmlFor="password"
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        xmlnsXlink="http://www.w3.org/1999/xlink"
+                        className="w-4 h-4 mr-2"
+                        viewBox="0 0 48 48"
                       >
-                        Password
-                      </label>
-                      <input
-                        className="w-full px-3 py-2 mb-3 text-sm leading-tight text-gray-700 border border-red-500 rounded shadow appearance-none focus:outline-none focus:shadow-outline"
-                        id="password"
-                        type="password"
-                        name="password"
-                        placeholder="******************"
-                      />
-                      <p className="text-xs italic text-red-500">
-                        Please choose a password.
-                      </p>
-                    </div>
-                    <div className="md:ml-2">
-                      <label
-                        className="block mb-2 text-sm font-bold text-gray-700"
-                        htmlFor="c_password"
-                      >
-                        Confirm Password
-                      </label>
-                      <input
-                        className="w-full px-3 py-2 mb-3 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
-                        id="c_password"
-                        type="password"
-                        placeholder="******************"
-                      />
-                    </div>
-                  </div>
-                  <div className="mb-6 text-center">
-                    <button className="w-full px-4 py-2 font-bold text-white bg-blue-500 rounded-full hover:bg-blue-700 focus:outline-none focus:shadow-outline">
-                      Register Account
+                        <defs>
+                          <path
+                            id="a"
+                            d="M44.5 20H24v8.5h11.8C34.7 33.9 30.1 37 24 37c-7.2 0-13-5.8-13-13s5.8-13 13-13c3.1 0 5.9 1.1 8.1 2.9l6.4-6.4C34.6 4.1 29.6 2 24 2 11.8 2 2 11.8 2 24s9.8 22 22 22c11 0 21-8 21-22 0-1.3-.2-2.7-.5-4z"
+                          />
+                        </defs>
+                        <clipPath id="b">
+                          <use xlinkHref="#a" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#b)"
+                          fill="#FBBC05"
+                          d="M0 37V11l17 13z"
+                        />
+                        <path
+                          clip-path="url(#b)"
+                          fill="#EA4335"
+                          d="M0 11l17 13 7-6.1L48 14V0H0z"
+                        />
+                        <path
+                          clip-path="url(#b)"
+                          fill="#34A853"
+                          d="M0 37l30-23 7.9 1L48 0v48H0z"
+                        />
+                        <path
+                          clip-path="url(#b)"
+                          fill="#4285F4"
+                          d="M48 48L17 24l-4-3 35-10z"
+                        />
+                      </svg>
+                      Google
                     </button>
                   </div>
-                </form>
+                  <a
+                    className="block mt-4 text-sm text-cyan-800"
+                    href="/signin"
+                  >
+                    Already have an account? Sign In{" "}
+                  </a>
+                </div>
               </div>
             </div>
           </div>
