@@ -37,7 +37,7 @@ function Profile() {
 
 const GET_TOKEN_URL = "http://localhost:3000/token";
 const UNEEQ_URL = "https://api.us.uneeq.io";
-const UNEEQ_CONVERSATION_ID = "12f53efa-e5de-4b3a-9879-584ead2ef9c5"; // example conversation id only
+const UNEEQ_CONVERSATION_ID = "12f53efa-e5de-4b3a-9879-584ead2ef9"; // example conversation id only
 var uneeqInstance: any;
 
 const DigitalHuman = () => {
