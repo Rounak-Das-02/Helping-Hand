@@ -5,6 +5,7 @@ const uneeqPackage = require("uneeq-js");
 const axios = require("axios");
 const sign = require("jwt-encode");
 
+let userName = "";
 function Profile() {
   const navigate = useNavigate();
   const { currentUser } = useAuth();
@@ -12,23 +13,17 @@ function Profile() {
     <>
       {currentUser ? (
         <>
-          <a
-            className="text-lg text-gray-100 bg-blue-800 p-1 m-8 rounded"
-            href="/signout"
-          >
-            Sign Out
-          </a>
-          <br></br>
-          <div>
-            Logged In As : <br></br>
-            {currentUser.displayName}
+          <div className="w-full h-full overflow-clip">
             <DigitalHuman></DigitalHuman>
+          </div>
+          <div className="invisible">
+            {(userName = currentUser.displayName)}
           </div>
         </>
       ) : (
         <>
-          <a href="/signin">You are not Logged in, click here to log in</a>
           {navigate("/signin")}
+          <a href="/signin">You are not Logged in, click here to log in</a>
         </>
       )}
     </>
@@ -37,7 +32,7 @@ function Profile() {
 
 const GET_TOKEN_URL = "http://localhost:3000/token";
 const UNEEQ_URL = "https://api.us.uneeq.io";
-const UNEEQ_CONVERSATION_ID = "12f53efa-e5de-4b3a-9879-584ead2ef9"; // example conversation id only
+const UNEEQ_CONVERSATION_ID = "65537dd6-796b-4939-8860-9e63d4cc934a"; // example conversation id only
 var uneeqInstance: any;
 
 const DigitalHuman = () => {
@@ -190,9 +185,42 @@ const DigitalHuman = () => {
       });
   }
 
+  const Nav = () => {
+    return (
+      <>
+        <nav className="bg-gray-800">
+          <div className="flex flex-row items-center justify-between h-16">
+            <p className="  text-white px-3 py-2 rounded-md text-sm font-medium">
+              Logged in As : {userName}
+            </p>
+
+            <a
+              href="/signout"
+              className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+            >
+              Sign Out
+            </a>
+          </div>
+        </nav>
+      </>
+    );
+  };
+
   return (
-    <>
-      <div className="flex content-center p-0 m-0">
+    <div className="">
+      <Nav />
+      <div className="flex flex-col content-center items-center p-0 m-0 ">
+        <div className="hidden" id="local-video-container"></div>
+        <div className="" id="digital-human-video-container"></div>
+        {/* 
+    <!--
+    We will use this element to display the text of what the digital human has spoke. HTML content returned
+    from the NLP could also be displayed here.
+  --> */}
+        <div id="transcript"></div>
+
+        {/* <!-- This element will be used to display the transcript of what the user has spoken. --> */}
+        <div id="local-transcript"></div>
         {/* <!-- Button to begin. Get's a session token and starts a digital human session. --> */}
         <div>
           {visible ? (
@@ -205,13 +233,13 @@ const DigitalHuman = () => {
             </button>
           ) : (
             <>
-              <button
-                className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-full m-12"
+              <a
+                className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-full m-12 z-100"
                 id="end-btn"
-                onClick={endSession}
+                href="/signout"
               >
                 End Session
-              </button>
+              </a>
             </>
           )}
           {loadingVisible ? (
@@ -239,23 +267,9 @@ const DigitalHuman = () => {
     local-video-container: The div element where the user's local video stream will be added.
     digital-human-video-container: The div element where the digital human's video stream will be added
   --> */}
-          <div className="hidden" id="local-video-container"></div>
-          <div
-            className="w-full h-full"
-            id="digital-human-video-container"
-          ></div>
-          {/* 
-    <!--
-    We will use this element to display the text of what the digital human has spoke. HTML content returned
-    from the NLP could also be displayed here.
-  --> */}
-          <div id="transcript"></div>
-
-          {/* <!-- This element will be used to display the transcript of what the user has spoken. --> */}
-          <div id="local-transcript"></div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
