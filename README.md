@@ -1,6 +1,6 @@
 # Team Helping Hand
 
-We have tested the project on Ubuntu (Google Chrome) and MacOS (Safari). In case there's any problem with the installation, it might be because of
+We have tested the project on Ubuntu (Google Chrome) and MacOS (Safari). In case there's any problem with the installation, it might be because of npm problem, which you might have to fix on your own :)
 
 ## To run this project :
 
@@ -8,7 +8,7 @@ We have tested the project on Ubuntu (Google Chrome) and MacOS (Safari). In case
 
 1.  Clone this repo
 
-2.  Go to the folder backend/token/node and then on the terminal , run `npm install`
+2.  Change Directory to the project Helping-Hand. Go to the folder backend/token/node and then on the terminal , run `npm install`
 3.  After installing the packages, on the terminal, run `npm start`. This is going to start the token fetching backend server. Keep it running for the project
 
 4.  Go back to the root directory and run `npm install` again on a new terminal.
