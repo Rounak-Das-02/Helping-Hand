@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1225b5ff-c726-4ed6-9973-12e966f6036e",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "76962d89-8044-4c92-89f5-c78521dcd979",
+    "data": [
+      {
+        "text": "who",
+        "userDefined": true
+      },
+      {
+        "text": " is the boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "ca6358dd-dc43-4585-b0c6-90fa265a8171",
+    "data": [
+      {
+        "text": "who do you ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "userDefined": false
+      },
+      {
+        "text": " for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "e5027e59-8691-4fba-aca1-ab0eda7d4e95",
+    "data": [
+      {
+        "text": "who do you think is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "7c0cf276-dbba-4985-a85c-831d39f30227",
+    "data": [
+      {
+        "text": "I should be ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "11ccc34c-19b7-4a2a-877b-e21328f26ce0",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "75f33632-e385-4d72-9cbe-9351635a7861",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " owner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  }
+]
