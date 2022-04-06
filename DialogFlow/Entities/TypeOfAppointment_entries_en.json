@@ -1,0 +1,45 @@
+[
+  {
+    "value": "renewal",
+    "synonyms": [
+      "renewal",
+      "liscence renewal",
+      "insurance renewal"
+    ]
+  },
+  {
+    "value": "payment",
+    "synonyms": [
+      "payment",
+      "bill payment",
+      "rent"
+    ]
+  },
+  {
+    "value": "taxes",
+    "synonyms": [
+      "taxes",
+      "income tax",
+      "house tax",
+      "water tax"
+    ]
+  },
+  {
+    "value": "activities",
+    "synonyms": [
+      "activities",
+      "cycling",
+      "walking",
+      "gym",
+      "cooking"
+    ]
+  },
+  {
+    "value": "misc",
+    "synonyms": [
+      "misc",
+      "dry cleaning clothes",
+      "laundry"
+    ]
+  }
+]

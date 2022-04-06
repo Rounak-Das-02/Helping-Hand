@@ -1,0 +1,10 @@
+[
+  {
+    "value": "$genre",
+    "synonyms": [
+      "$genre",
+      "musicGenre",
+      "genre"
+    ]
+  }
+]

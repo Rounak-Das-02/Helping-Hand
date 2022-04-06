@@ -1,0 +1,9 @@
+{
+  "id": "735fe760-673c-486a-b39d-1ce59261ae47",
+  "name": "TypeOfAppointment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
