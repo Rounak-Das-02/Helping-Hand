@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5af8338e-3316-49e2-a61f-f725ffb791cf",
+    "data": [
+      {
+        "text": "what do you mean exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "57afa1d7-bb80-4dfd-aefd-7a3ab7f3aca1",
+    "data": [
+      {
+        "text": "but what do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "169716b5-de0b-437a-8670-e3162c310ace",
+    "data": [
+      {
+        "text": "is that what you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "7b0a67bd-ec61-4964-8da7-073877f89b70",
+    "data": [
+      {
+        "text": "what do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a02469dc-31f8-45c2-9861-da81649eb5ff",
+    "data": [
+      {
+        "text": "what exactly do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

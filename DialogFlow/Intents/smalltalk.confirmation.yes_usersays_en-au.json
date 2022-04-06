@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "f8ce8d38-a981-4af5-bcbb-57b88ae972a1",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "3ff5db9c-4d46-471e-885d-8d6826d96949",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fcf38353-e968-4bd8-8a6f-0fa19c84e199",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "76d65cb2-20a0-4f9f-8349-610c1dfde229",
+    "data": [
+      {
+        "text": "that\u0027s correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "65335e4c-cbe0-4f00-97d4-0af8cd87be59",
+    "data": [
+      {
+        "text": "exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "bb94c0ea-a024-4a82-9ae1-741582753e32",
+    "data": [
+      {
+        "text": "I guess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "cee60c34-6923-4cd6-8774-8a5b13866eea",
+    "data": [
+      {
+        "text": "okey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4d2f7713-8f0d-4542-b528-a7b56c85cec0",
+    "data": [
+      {
+        "text": "absolutely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b5dbc140-29db-4820-a884-a87668350c6a",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d1f03059-1f6e-471e-9d56-363b983f41ac",
+    "data": [
+      {
+        "text": "yes I agree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2688b8b8-d30e-41b2-88de-8205dccfbc03",
+    "data": [
+      {
+        "text": "yes you ",
+        "userDefined": false
+      },
+      {
+        "text": "may",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1ea6affc-33f5-4e07-8da5-c1afd8266486",
+    "data": [
+      {
+        "text": "I agree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "58dcf43f-9624-4640-850f-871a5e07ecae",
+    "data": [
+      {
+        "text": "ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c667459c-8f9c-4356-88d8-76e64ff76cb4",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a39b0268-2174-40cb-a235-d600c2435384",
+    "data": [
+      {
+        "text": "I think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "eaa57740-91ef-44f2-8d1c-4383c1ed9239",
+    "data": [
+      {
+        "text": "yeah that\u0027s right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b1794ae5-cb24-482e-a6a0-68619809ca11",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d0c9d331-e116-44eb-842f-ea9c39de6f94",
+    "data": [
+      {
+        "text": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c9009638-0c41-4da4-a7f8-d7d717e38d37",
+    "data": [
+      {
+        "text": "please do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "ebdaf615-df6d-4a5d-be0e-16bc7f3b65e0",
+    "data": [
+      {
+        "text": "yeah exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "36a43653-9fd3-4cb4-87ab-7609a8f5365b",
+    "data": [
+      {
+        "text": "ok yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4feb1c9a-8827-4a42-bf87-707459ef44c1",
+    "data": [
+      {
+        "text": "yap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2887bdb9-aaed-4138-9118-5d0c9f8d3201",
+    "data": [
+      {
+        "text": "okay sounds ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "711f608c-3ad1-4b1f-8bcb-f7084ba09e6c",
+    "data": [
+      {
+        "text": "this is correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6ab8b98f-f38e-4e45-bb7f-aa06f9e19296",
+    "data": [
+      {
+        "text": "okay then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "91cfb582-c8ae-4e02-b24a-1a07b5aec5f9",
+    "data": [
+      {
+        "text": "k",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "72c93a3f-93b1-4aba-bf63-6fce66e01dde",
+    "data": [
+      {
+        "text": "yeh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "015ccb59-51b4-4878-8913-5b3132bbf2be",
+    "data": [
+      {
+        "text": "why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fcea5586-848d-4b67-b874-8e4a7764390a",
+    "data": [
+      {
+        "text": "yes definitely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b3694c47-bd03-45ab-8d4a-53c4b403dd1e",
+    "data": [
+      {
+        "text": "alrighty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6b064d9e-7c12-42b5-8b03-58dfc696faae",
+    "data": [
+      {
+        "text": "yes that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "eb530441-b8d0-4261-9010-b8aecfbf00a0",
+    "data": [
+      {
+        "text": "ok go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c845b32a-f0be-4434-85fe-47958ed4419f",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "76ca21e5-4409-4e59-9424-5e3dd2d65317",
+    "data": [
+      {
+        "text": "yes I would like to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "da145635-bdf7-44d0-ad95-97faac1918a6",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6982c5b5-fe6a-49bd-b678-08adda2fe709",
+    "data": [
+      {
+        "text": "okay that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2ed8bd20-5ea1-4edf-b716-d732325d3598",
+    "data": [
+      {
+        "text": "yeah right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2bf7f1b9-280c-4df8-a54a-cdccf53a0e15",
+    "data": [
+      {
+        "text": "I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b00927a9-9ed0-4b7f-9425-4db3eb982fbb",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": true
+      },
+      {
+        "text": " thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1d41d691-dcf9-4355-bd7e-c58970622091",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "05e57fbc-f1ee-4768-8e4c-a4cca1be4e7c",
+    "data": [
+      {
+        "text": "affirmative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b10a7ebf-861f-4e47-a48f-cb765c2bdb61",
+    "data": [
+      {
+        "text": "yes right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2638f357-8b68-410d-9793-a824dc649a66",
+    "data": [
+      {
+        "text": "yeah ",
+        "userDefined": false
+      },
+      {
+        "text": "I\u0027m",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "cc088027-e7c7-4cbf-a8ae-6aff8dd93fc0",
+    "data": [
+      {
+        "text": "go for ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c355a237-6e97-4d63-8460-d17fce063ee1",
+    "data": [
+      {
+        "text": "yeah go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "89374283-bfd1-448a-aa9e-e1ba6b41e9c8",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027",
+        "userDefined": true
+      },
+      {
+        "text": "t mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a2cfadf6-b422-468b-bd4e-a61a21f3c46e",
+    "data": [
+      {
+        "text": "that s okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6a81215c-76d6-4d1f-b828-09e0536503f0",
+    "data": [
+      {
+        "text": "sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "baa5d1fc-959b-48de-a055-fc7fe32d3b2a",
+    "data": [
+      {
+        "text": "yes indeed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2be0e7af-9e6a-4cda-ad50-97f39901b921",
+    "data": [
+      {
+        "text": "right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "faba6431-079b-4876-b28a-31e8fa2e8fcf",
+    "data": [
+      {
+        "text": "okie dokie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "776dfc24-0588-4cba-9498-c613da230b93",
+    "data": [
+      {
+        "text": "yea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "287f7c8c-bf4c-4cdb-bee3-27f3f6583bd2",
+    "data": [
+      {
+        "text": "yes correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9dd8e23a-f653-498b-b0bf-d3ff7d294cb0",
+    "data": [
+      {
+        "text": "go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "777e4eed-17b6-45af-b821-1b4dbec1e03f",
+    "data": [
+      {
+        "text": "looks ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6d33ac4c-8e56-4e55-9be4-101ee4b62210",
+    "data": [
+      {
+        "text": "correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9837aafa-5678-4919-81d0-f6c85fd73b40",
+    "data": [
+      {
+        "text": "certainly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0a601fa3-a250-4ca4-857e-8290d238a38c",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "48ed7dea-522b-44f9-8b73-f3415cd67cf6",
+    "data": [
+      {
+        "text": "oh yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "15bbabc3-4c1a-48fd-b1d8-a93302462098",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "57da37d7-f8a8-46ea-a1b8-2b65c6fe7e05",
+    "data": [
+      {
+        "text": "obviously",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "67a7853e-69ab-402d-a145-2cb10b361463",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c9ec883e-4c51-4cce-8e10-a4953bee0b1e",
+    "data": [
+      {
+        "text": "definitely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d4896a5c-a5b7-450b-8ff1-cf74d7589328",
+    "data": [
+      {
+        "text": "confirmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "be963469-c973-4257-81b5-909caf9fa49e",
+    "data": [
+      {
+        "text": "ok you can",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "07f516aa-6881-4a33-bc94-d3103a432882",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "f2a104e1-5abb-4ab0-9687-ed03722a175f",
+    "data": [
+      {
+        "text": "ye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "03f94a3a-5993-4092-8915-684fa32ee44b",
+    "data": [
+      {
+        "text": "yes this is correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "59b53585-c984-4331-ae7c-e99a1b7a4e0c",
+    "data": [
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b5374bca-aaa3-426b-b071-ee530c5dd053",
+    "data": [
+      {
+        "text": "nevermind",
+        "userDefined": true
+      },
+      {
+        "text": " its okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "75ae94e2-0f96-48c1-b77b-1528188095fc",
+    "data": [
+      {
+        "text": "yeah ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0f1ad93f-25ea-4f0f-8cb0-c8261ad4c3ce",
+    "data": [
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " course why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1b9d7a0c-740d-4bf9-a320-150fb533f88e",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": true
+      },
+      {
+        "text": " why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fa6dda0e-cc3e-4027-a42d-044a4a4d505c",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5de1e1f2-0561-4b59-86a7-a46ec4f401ba",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a165e29a-00bc-46bc-aab9-f2f13dd33bad",
+    "data": [
+      {
+        "text": "yeah ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "10173894-33f6-45de-8049-b249daa1a454",
+    "data": [
+      {
+        "text": "yes I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "ab7c53f6-234e-4392-bd84-abefe54ea3d4",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "for sure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "daeaa99d-6abe-4e19-b287-92cbc86f5185",
+    "data": [
+      {
+        "text": "that is ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0abfef42-61b1-4b5f-8ea2-8e02dcd709a4",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9b275098-81d1-44b1-8b09-22b1ad5c36a0",
+    "data": [
+      {
+        "text": "yup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

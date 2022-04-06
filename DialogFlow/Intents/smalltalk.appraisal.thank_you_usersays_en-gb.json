@@ -1,0 +1,572 @@
+[
+  {
+    "id": "983da591-fd77-41d6-a708-8875ae796bf8",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "7389bf5a-645d-4e82-a182-dba6441ff7db",
+    "data": [
+      {
+        "text": "cheers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "c6397412-7a6d-4a88-ba0f-108ab64f9e5d",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "5fb42e5a-743a-4bdb-945e-cdbad6273cb5",
+    "data": [
+      {
+        "text": "thanks so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "281972af-e8b9-47a3-a504-6b6c107fc8c1",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "efde1f33-9e9f-44fc-b733-14e40a2330a8",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "969fd8f9-9f0c-4347-9dfb-b6eca5978eac",
+    "data": [
+      {
+        "text": "thanx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "70e944cc-2d74-448c-8892-d4ef81205634",
+    "data": [
+      {
+        "text": "thanks buddy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "0d0a7752-e410-4eef-a61d-9a7a654bdafd",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "64a66be5-79c2-4fe2-9670-47dfef0a9b9e",
+    "data": [
+      {
+        "text": "well",
+        "userDefined": true
+      },
+      {
+        "text": " thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "95889ab1-a474-4f5d-a2ea-6ca81a688d73",
+    "data": [
+      {
+        "text": "well thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "4548a416-081d-4713-a129-3c0566cce0a8",
+    "data": [
+      {
+        "text": "appreciate your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "575c3cc2-a47a-498f-9162-56381c29bded",
+    "data": [
+      {
+        "text": "terrific ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "15d777cf-3a28-403e-8a09-46d1798cf9ca",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "5e879f3d-b46e-479b-adf3-53ad1fdbf577",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": true
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "c8418492-b44f-4fb5-bf19-563a51e0ce4d",
+    "data": [
+      {
+        "text": "all thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "99b8d07d-b3b4-4d46-b5b5-cbb8019d1bf2",
+    "data": [
+      {
+        "text": "thanks again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "b2d2db57-e0b0-4230-9ee8-2111294d2395",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": true
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "ffabc6f8-4a80-4961-a8a4-896738fe7c46",
+    "data": [
+      {
+        "text": "great ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "94e96a42-6341-4a11-8855-92e184845407",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "efc95ab9-1fab-425e-ba99-a30868d65ef8",
+    "data": [
+      {
+        "text": "perfect thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "9c071ac8-706c-4065-95ce-bec8d31e1a26",
+    "data": [
+      {
+        "text": "alright thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "0aee6f4d-c005-4ccc-9087-7bd49a19e734",
+    "data": [
+      {
+        "text": "thnx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "9ea6569e-db9d-4f22-a822-72b51255c78f",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my friend",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "6591d17a-148c-4cfa-a343-8b45bc93d7cb",
+    "data": [
+      {
+        "text": "you helped a lot ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "8281a918-2505-424a-9685-e067c3dcc80b",
+    "data": [
+      {
+        "text": "thanks a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "23f146f1-c117-4405-a419-5777a3d5c48c",
+    "data": [
+      {
+        "text": "thanks for ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": true
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "8a056b6e-d383-4285-8ca9-21efee3d224f",
+    "data": [
+      {
+        "text": "thanks ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "7df7f82f-0ee3-4696-aa9d-d5ea9c315571",
+    "data": [
+      {
+        "text": "nice",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "21c0fe3c-a9a3-411f-89c5-138cd56cccb9",
+    "data": [
+      {
+        "text": "I appreciate ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "19cdb6eb-d556-43d5-a7b4-f79ca148c057",
+    "data": [
+      {
+        "text": "thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "0d5d5ca7-9260-4b4d-87b3-99c29abc110c",
+    "data": [
+      {
+        "text": "alright ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "44db8060-c6f0-4311-b650-f7826f326b82",
+    "data": [
+      {
+        "text": "so ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      },
+      {
+        "text": " of you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "be35288d-dc7d-4935-86aa-b74dbdd8f68d",
+    "data": [
+      {
+        "text": "well thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  }
+]

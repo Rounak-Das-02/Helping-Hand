@@ -1,0 +1,205 @@
+[
+  {
+    "id": "37c75651-6048-4ac5-861a-44f6bb977fc9",
+    "data": [
+      {
+        "text": "hug you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "72a65012-4202-409b-bb43-ecca531427f1",
+    "data": [
+      {
+        "text": "do you want a hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "6d9aaf5c-dc6d-4229-8ea9-916ff7343b8f",
+    "data": [
+      {
+        "text": "hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "06f97df0-5a21-46e6-ad94-62428448af8f",
+    "data": [
+      {
+        "text": "may I hug you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "3841f972-227c-404f-a210-2732814ab986",
+    "data": [
+      {
+        "text": "could you give ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      },
+      {
+        "text": " a hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "154bcfd5-30d2-45a8-ae92-95175f03e691",
+    "data": [
+      {
+        "text": "you hugged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "25c3e51c-dd5c-466d-b1bf-d99f6d02722f",
+    "data": [
+      {
+        "text": "hugged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "e535c34d-d875-42e2-940b-9490f158927b",
+    "data": [
+      {
+        "text": "wanna hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "4a53d5a7-5d35-4f6b-adee-8bb01b3daaaf",
+    "data": [
+      {
+        "text": "hug me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "6e408ae7-79ff-45d1-b200-a9d501a2fb9d",
+    "data": [
+      {
+        "text": "hugging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "830fc4cd-6169-4a5e-b372-471f9fbcb513",
+    "data": [
+      {
+        "text": "a hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "708d4bef-179e-49d5-bf1f-fdf92e45bb35",
+    "data": [
+      {
+        "text": "want a hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "c5fc20c3-8fe0-433a-aa96-0e6a7d16183b",
+    "data": [
+      {
+        "text": "hugging me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "5dfce039-d899-4b54-950e-20e1e3936fdb",
+    "data": [
+      {
+        "text": "I want a hug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "878e1895-71b7-4d49-a181-a102f57736e7",
+    "data": [
+      {
+        "text": "hugged me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-us",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "18abdf1c-fc4e-4aee-b75b-24e302cf6a50",
+    "data": [
+      {
+        "text": "that\u0027s awesome ",
+        "userDefined": false
+      },
+      {
+        "text": "thank you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9e4ca40e-cdbb-4bef-8ffe-2cd242f5c167",
+    "data": [
+      {
+        "text": "oh ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "290422a7-f62c-4d3a-bd2b-5fc7509ed1b1",
+    "data": [
+      {
+        "text": "that\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a3780e7f-d16f-421a-9222-bbd6233d388d",
+    "data": [
+      {
+        "text": "that\u0027s very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "17f53bea-6f03-4cc4-aaf2-f3cc8fd36152",
+    "data": [
+      {
+        "text": "really ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "3ff9d687-e138-4a04-b1ff-8c599a207479",
+    "data": [
+      {
+        "text": "that is ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "75e786d5-99b2-472d-bc3f-2572fd0b0f7d",
+    "data": [
+      {
+        "text": "that is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8d17eee6-0be1-4d4f-a0fe-56646fd5d72b",
+    "data": [
+      {
+        "text": "sweet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "eb903284-8781-490a-806c-f5de9dec7113",
+    "data": [
+      {
+        "text": "that\u0027s better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "687edb99-ff90-4b7e-87d5-ab155509f1a5",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "148ae962-c42d-41a0-ac9e-ecdaa45d43bc",
+    "data": [
+      {
+        "text": "that\u0027s sweet ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "95af002b-c595-43c3-8ca6-e24d22b4fd78",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " was ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b18c6d9d-f345-48bd-9a33-fb877effe427",
+    "data": [
+      {
+        "text": "that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "34870724-b44d-4c64-99fe-b9dcdb9d63a6",
+    "data": [
+      {
+        "text": "that was awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "89d7a046-8c74-4fba-97cb-ead4aa8e9d62",
+    "data": [
+      {
+        "text": "cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1b1ffb09-b273-4a23-b7cf-f309eba76b42",
+    "data": [
+      {
+        "text": "this is awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6b3c043d-22c9-477a-b4d9-e6cbc59d67df",
+    "data": [
+      {
+        "text": "that\u0027s wonderful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a235f2c3-3933-4391-b537-6a93e46aa30f",
+    "data": [
+      {
+        "text": "straight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "03e94952-1c23-4668-9160-e4967a7de355",
+    "data": [
+      {
+        "text": "so ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "938922f5-1984-4fe6-9e6d-c078fa56cb84",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "26332ee1-9880-4eeb-a221-bd7aa3e8dc51",
+    "data": [
+      {
+        "text": "that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "cade419b-fbbf-4616-b9ec-b9fc634baa35",
+    "data": [
+      {
+        "text": "excellent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8c6f6c9c-1328-4f21-b3db-0b0d9d4885da",
+    "data": [
+      {
+        "text": "that\u0027s not ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "7a75f5af-23eb-4d62-bfad-6e2d5c0c61b7",
+    "data": [
+      {
+        "text": "that is wonderful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4d8616b0-ae66-4221-8ae3-6f5d9b80cf56",
+    "data": [
+      {
+        "text": "much better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "995e3990-a8c5-4a74-a2f5-da4c73487db0",
+    "data": [
+      {
+        "text": "splendid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "25177a14-9f32-4ba6-9757-2de98b025596",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": true
+      },
+      {
+        "text": " glad to hear that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6826c2f6-014c-4ff8-82af-b5da6f64ed31",
+    "data": [
+      {
+        "text": "terrific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8716ea2c-228d-4348-ba92-f1b7d5a3a197",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2c5fe433-8906-44a0-83b3-5d20c53b2666",
+    "data": [
+      {
+        "text": "that\u0027s perfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1a54f811-b8a1-4a8c-a0c0-adb4e43b68a1",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c5dc69c1-7aa9-4c2f-8e18-4e595c901195",
+    "data": [
+      {
+        "text": "that\u0027s great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "39e6ba1c-4c3d-4c6f-8827-6de41734e171",
+    "data": [
+      {
+        "text": "that was amazing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e3d108a7-58cf-4cc2-b159-7145fef69bbc",
+    "data": [
+      {
+        "text": "that\u0027s really ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "74769b5f-61c4-41b2-bea0-427f644d263c",
+    "data": [
+      {
+        "text": "so sweet ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "76cff22b-4bc7-4f00-9be0-2f9d396176cc",
+    "data": [
+      {
+        "text": "that\u0027s amazing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "eee61154-b2b1-4753-b775-c033b42b9574",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " to know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6c72852a-e92d-4557-b8c1-2b17fa89d4d6",
+    "data": [
+      {
+        "text": "that\u0027s awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "96a6b5c3-575c-4877-89f4-5bbfaefb6835",
+    "data": [
+      {
+        "text": "marvelous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "98c753e2-acb5-4ae0-a69d-39ef818bdc67",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2ead0511-375d-4973-8a5d-f0880edea8e0",
+    "data": [
+      {
+        "text": "very then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0cac833f-a9ba-4c3a-89ee-f8bc1c7952c4",
+    "data": [
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1b3735f8-68a1-4217-953d-b75373315665",
+    "data": [
+      {
+        "text": "that\u0027s very ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "34de9c44-5a6f-4d92-96c7-1304cf2630bc",
+    "data": [
+      {
+        "text": "that\u0027s very ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1a7850da-2d34-40e0-8e58-3c0a49f10e6f",
+    "data": [
+      {
+        "text": "this is ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b7cbab5e-7c62-41e6-812b-c9dc448e9cdc",
+    "data": [
+      {
+        "text": "very nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "46bdd8b2-4e67-4742-b46b-12a7ceb40902",
+    "data": [
+      {
+        "text": "not too ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1cd3f71c-9268-4c85-abcd-f7ad35de42a9",
+    "data": [
+      {
+        "text": "it\u0027s very good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5d26f2c3-7ff1-4eb7-928b-809bbd6bda91",
+    "data": [
+      {
+        "text": "really ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "3de19035-9286-488a-abf4-b3adecc4f2b6",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "db217835-20b9-4200-a9b8-44aab949dd35",
+    "data": [
+      {
+        "text": "it\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e0918517-9466-425b-9ad6-a1942550e23a",
+    "data": [
+      {
+        "text": "fine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "926b1047-5784-4ed0-b9ce-3c058674ccdd",
+    "data": [
+      {
+        "text": "that\u0027s much better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "7c31e486-e12a-44f8-b6b3-6b99205cac86",
+    "data": [
+      {
+        "text": "that was pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "7f6b15cf-2bc4-47dc-9fcc-c9b96e42dd61",
+    "data": [
+      {
+        "text": "glad to hear that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "35e3d060-bd11-40f8-907c-b4f5fbf51bbb",
+    "data": [
+      {
+        "text": "wonderful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "311b1f9f-7450-4479-bfbd-edf072a3ad0e",
+    "data": [
+      {
+        "text": "that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "07eb7d5b-e0a4-48b8-86de-7690f43598f7",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "79b4738a-a6b5-4eec-a4dc-dfe8feeda8c4",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "da8d21a9-0884-45b5-8218-62fb7e512f01",
+    "data": [
+      {
+        "text": "pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0aa415aa-b879-4f32-ad87-cd3b6d4f2e1a",
+    "data": [
+      {
+        "text": "okay good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "07bba798-9419-4b31-a30b-2d1afac80dbc",
+    "data": [
+      {
+        "text": "really ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "61209a1c-6cb4-4b0d-ac9a-9e653a631ef2",
+    "data": [
+      {
+        "text": "this is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "84e29c29-6319-4eab-bfed-7ccd7e891c1a",
+    "data": [
+      {
+        "text": "it\u0027s fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e4c9801a-e585-4119-8338-4e0a86a22f44",
+    "data": [
+      {
+        "text": "that\u0027s pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "729f1b33-49c9-4e33-8ad0-b710753abc48",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "159ea92c-a1a0-413d-804d-43b4dad72e18",
+    "data": [
+      {
+        "text": "fantastic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "f874753c-4fb3-43f3-b6f9-277369045a7b",
+    "data": [
+      {
+        "text": "that\u0027s cute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "7f2e4624-351b-44a3-8196-2c825cb6273b",
+    "data": [
+      {
+        "text": "that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e0147739-7d1e-461c-af79-5e4cf99f6555",
+    "data": [
+      {
+        "text": "that\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6b3644f1-d3fa-43fe-a70d-b4f725fcfefc",
+    "data": [
+      {
+        "text": "glad to hear ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0459da2d-1a98-4d76-8c6d-a92d16e827ae",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "ddbe9dff-e060-4c0c-90b9-6f2160a81c2b",
+    "data": [
+      {
+        "text": "super fantastic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c0139331-16ec-419b-81a3-d249006bdfb5",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "f8576062-43a2-41ad-b049-39651d0c40ba",
+    "data": [
+      {
+        "text": "it\u0027s amazing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "f6e30d61-4f80-414d-822e-993c85be473d",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "2ef0083a-6dd1-4792-b829-36a858b015b2",
+    "data": [
+      {
+        "text": "that is awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a27b4ac9-352e-47c8-a397-f5f761a49c89",
+    "data": [
+      {
+        "text": "it\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " very good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1b63d84d-3dd2-47f6-9019-30de01a21cbb",
+    "data": [
+      {
+        "text": "it\u0027s",
+        "userDefined": true
+      },
+      {
+        "text": " perfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8261e340-7ea3-4f27-9575-696a1f9b26d4",
+    "data": [
+      {
+        "text": "that was good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "25f942f1-c007-4bbb-95d3-1d9ad626add0",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "okay",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "81846921-3cea-4cde-a512-27185137a322",
+    "data": [
+      {
+        "text": "super",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8006c97d-f835-4a81-b089-bf6788cf0be4",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e0cee021-317e-46c2-a80f-787730fadfb9",
+    "data": [
+      {
+        "text": "that was cute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "55d453fe-ceab-4ad6-8f26-7cd7ea7b5a77",
+    "data": [
+      {
+        "text": "that\u0027s fantastic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "3680e676-e962-4aea-87d6-73f253e1f1ee",
+    "data": [
+      {
+        "text": "perfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "ccc770c7-2641-4aba-a2da-16e887982564",
+    "data": [
+      {
+        "text": "pleasant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d51c5b7e-07b3-43a3-b4b1-9ff2d2424fe3",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "26ba809d-9cf4-413d-a8db-a1a38985b595",
+    "data": [
+      {
+        "text": "that was very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c298fde6-9d5a-406b-ad72-2b08c04ede53",
+    "data": [
+      {
+        "text": "that\u0027s fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "cec1ba2b-daa6-4263-8942-edb83872bc40",
+    "data": [
+      {
+        "text": "amazing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "ef73b8db-051a-409d-a324-02383a2e0d57",
+    "data": [
+      {
+        "text": "that\u0027s really ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "54ce57b3-c348-4ea4-8359-a452de6b811b",
+    "data": [
+      {
+        "text": "so ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0633998e-c278-4690-8c48-3d9db5171855",
+    "data": [
+      {
+        "text": "it\u0027s awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

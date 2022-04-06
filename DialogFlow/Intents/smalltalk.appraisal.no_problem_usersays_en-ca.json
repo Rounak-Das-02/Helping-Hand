@@ -1,0 +1,118 @@
+[
+  {
+    "id": "2ec5b80a-fb53-4cf0-8a50-7814e00e30bd",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      },
+      {
+        "text": " no problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "953f1a14-3b0b-4eae-bc81-801c31834843",
+    "data": [
+      {
+        "text": "don\u0027t",
+        "userDefined": false
+      },
+      {
+        "text": " worry there\u0027s no problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "09c619b4-a2a0-4a10-bd57-f150962efabf",
+    "data": [
+      {
+        "text": "there\u0027s no problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "90f3c4dd-6b9a-46e5-90e4-bff1e6bce8c7",
+    "data": [
+      {
+        "text": "don",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027t worry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "e22e36f0-db5f-4202-ba85-14f4aaffecbd",
+    "data": [
+      {
+        "text": "no problem about that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "7f196463-0b73-4a0c-8bad-3098a8c44597",
+    "data": [
+      {
+        "text": "no problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "742358ae-1e6d-4581-94bd-586777edc219",
+    "data": [
+      {
+        "text": "no probs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "7162c9d1-0049-41ee-8a29-97acb8ab098c",
+    "data": [
+      {
+        "text": "no worries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  }
+]
