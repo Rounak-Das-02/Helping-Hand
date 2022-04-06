@@ -1,0 +1,46 @@
+{
+  "id": "342c4c9d-b4de-4bdc-89f3-66f7b3d795f1",
+  "parentId": "8431edd9-eab9-4f09-95f9-c79f396829f0",
+  "rootParentId": "7e2613a6-6101-4bb9-9e79-d842a2fbad42",
+  "name": "askEmergencyNumber - no - no",
+  "auto": true,
+  "contexts": [
+    "askEmergencyNumber-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askEmergencyNumber.askEmergencyNumber-no.askEmergencyNumber-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Bene. Ci sentiamo pesto!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

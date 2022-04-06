@@ -1,0 +1,47 @@
+[
+  {
+    "id": "6544df2c-05d0-4600-929f-89ee6f9acfc5",
+    "data": [
+      {
+        "text": "it was just awful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "082190fc-2809-460c-9125-fb440456fb15",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " wasn\u0027t a good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc7da4da-418c-4059-984f-bb68bbf118b6",
+    "data": [
+      {
+        "text": "my day went bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

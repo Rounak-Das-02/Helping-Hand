@@ -1,0 +1,156 @@
+[
+  {
+    "id": "4c7f6fc6-dc30-4c1c-9899-704bc7cad1ed",
+    "data": [
+      {
+        "text": "tell me all emergency numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1257898-d2b3-4e66-8fed-1088b249fde4",
+    "data": [
+      {
+        "text": "tell me an emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644467c6-ccd1-460e-b7d2-5dc0ab3fe91d",
+    "data": [
+      {
+        "text": "what is my emergency number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac6abf00-0584-4b6d-81f7-7c427905f2d0",
+    "data": [
+      {
+        "text": "what is the emergency number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb37912d-fd0d-4421-a417-317ab7f3d37a",
+    "data": [
+      {
+        "text": "which",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "userDefined": true
+      },
+      {
+        "text": " is in my emergency contact list?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "970e2cdd-edb7-4951-af26-ed54795e8218",
+    "data": [
+      {
+        "text": "which number did i add in case of danger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b47e536-d5c4-4fc0-9f01-e51713e41fed",
+    "data": [
+      {
+        "text": "did I enter an emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6c5bc48-71e5-4ae7-829b-5a7c00d81cc2",
+    "data": [
+      {
+        "text": "Did I enter any emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3274286-f0f6-4580-809f-2fd54fe222a7",
+    "data": [
+      {
+        "text": "what number did i put in for an emergency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36f2ddd1-fecd-45ab-993d-996108c4c205",
+    "data": [
+      {
+        "text": "emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number?",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

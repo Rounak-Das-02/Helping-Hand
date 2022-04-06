@@ -1,0 +1,174 @@
+[
+  {
+    "id": "50095c98-1f5e-4dee-b52a-b8e155119b13",
+    "data": [
+      {
+        "text": "add an emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43b94bf3-8251-4d19-b45a-ae99a680b528",
+    "data": [
+      {
+        "text": "add emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9af7f7d-a69b-443a-9207-9c1217f7cbda",
+    "data": [
+      {
+        "text": "put in an emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6d9cd79-517b-421b-8317-715a222771ae",
+    "data": [
+      {
+        "text": "put my ",
+        "userDefined": false
+      },
+      {
+        "text": "daughter\u0027s",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "465062a6-0dd1-4426-8236-d3b0407bd105",
+    "data": [
+      {
+        "text": "add my ",
+        "userDefined": false
+      },
+      {
+        "text": "husband\u0027s",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "313c9a57-b8e0-4051-b668-26ff199816e3",
+    "data": [
+      {
+        "text": "enter emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a30123e8-3728-44c6-9798-e1ff2c16a2d2",
+    "data": [
+      {
+        "text": "add emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa8e8533-3264-499e-aa10-cff26d8a91f0",
+    "data": [
+      {
+        "text": "add a number in case of danger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2707373-fe78-40b6-b975-619d44221cc2",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "person\u0027s",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " number in an emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "621b1eb8-ee73-4376-aef4-6b487d50ccd4",
+    "data": [
+      {
+        "text": "dad\u0027s",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " number is my emergency contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

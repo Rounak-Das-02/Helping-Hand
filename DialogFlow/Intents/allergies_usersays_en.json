@@ -1,0 +1,53 @@
+[
+  {
+    "id": "21576fbf-c7b7-482d-9c10-8d532a22a0ac",
+    "data": [
+      {
+        "text": "I can\u0027t eat lactose food items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b07937a9-d088-47c3-aaf7-1ee5db7509b5",
+    "data": [
+      {
+        "text": "i\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "dairy products",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e467440-1363-4622-916a-86443d76d491",
+    "data": [
+      {
+        "text": "I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "tomatoes and onions",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

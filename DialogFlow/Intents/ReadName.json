@@ -1,0 +1,14 @@
+{
+  "id": "950ea644-5060-4325-b18f-3e8936624991",
+  "name": "ReadName",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,301 @@
+[
+  {
+    "id": "53d2d9d7-45d3-474c-822b-d514e32bba2d",
+    "data": [
+      {
+        "text": "i get an allergy to ",
+        "userDefined": false
+      },
+      {
+        "text": "lime",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "400db9f7-4433-414b-93e5-1ba3c1b4b1bf",
+    "data": [
+      {
+        "text": "i get an allergy for ",
+        "userDefined": false
+      },
+      {
+        "text": "lime",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b84682f9-2f4d-41dc-be0f-b59e09e54dda",
+    "data": [
+      {
+        "text": "i have an allergy for ",
+        "userDefined": false
+      },
+      {
+        "text": "milk products",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6217394-d7a7-442c-850f-952fd4237ab0",
+    "data": [
+      {
+        "text": "I have allergies of ",
+        "userDefined": false
+      },
+      {
+        "text": "tomatoes",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ade3626b-3e80-403f-869f-fb9d29a92174",
+    "data": [
+      {
+        "text": "allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f97667f4-0e8a-4560-9400-5dd85e48618f",
+    "data": [
+      {
+        "text": "i found out i was allergic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90fcbdce-cf41-4902-bffa-9c7bb1ce3164",
+    "data": [
+      {
+        "text": "I want to add an allergy of ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8a2ffda-dea4-4571-b443-85fdb9d8cf2f",
+    "data": [
+      {
+        "text": "I am allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "wheat",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8b37836-13d1-4989-8e33-422d92c6f888",
+    "data": [
+      {
+        "text": "I am allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "gluten",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49ff8b94-9fcb-47ab-b131-fd8ead10ae37",
+    "data": [
+      {
+        "text": "I\u0027m telling you about my allergies for ",
+        "userDefined": false
+      },
+      {
+        "text": "lemons",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f8fea5d-fbe4-435e-bad6-af8d2e461752",
+    "data": [
+      {
+        "text": "I tell you my allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb05e868-87d9-4376-bcce-446f1c9ce6e7",
+    "data": [
+      {
+        "text": "I write allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af556395-765e-42fb-a47a-36e8f68ed9c4",
+    "data": [
+      {
+        "text": "look at my allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a3f5a6b-fbb0-4afa-8521-a8e086545b1b",
+    "data": [
+      {
+        "text": "I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "this food",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a7a08a0-2f13-4a4a-a8ac-00124b0f582c",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "allergy",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "this food",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9373b36f-465f-44d2-a898-4241dec9a65b",
+    "data": [
+      {
+        "text": "add allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5243c99f-af1e-497b-8303-174cd29026c4",
+    "data": [
+      {
+        "text": "I have an allergy for ",
+        "userDefined": false
+      },
+      {
+        "text": "this food",
+        "meta": "@sys.any",
+        "alias": "allergies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

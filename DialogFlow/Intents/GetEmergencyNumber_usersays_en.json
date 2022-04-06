@@ -1,0 +1,246 @@
+[
+  {
+    "id": "c2062d37-2084-4c12-b584-fa92ab4a2f30",
+    "data": [
+      {
+        "text": "add an emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a88fcb-5310-42cd-9d8a-912f2ff285fd",
+    "data": [
+      {
+        "text": "put in an emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36172b99-f360-4be3-b4b7-52c44bd38092",
+    "data": [
+      {
+        "text": "enter ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " for emergencies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30271ca5-36b3-4c1f-b493-c0135e6214ee",
+    "data": [
+      {
+        "text": "add emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1dbdf4e-ae81-43b1-aae1-32b3f520e65b",
+    "data": [
+      {
+        "text": "put my daughter\u0027s emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8de858c6-b9db-420f-8b4d-1be85378f099",
+    "data": [
+      {
+        "text": "add my husband\u0027s emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0312494-fe65-44b6-8d8e-a32431c41ef0",
+    "data": [
+      {
+        "text": "enter emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "795f8727-af96-4c7f-89df-9f2d4acffc33",
+    "data": [
+      {
+        "text": "enter an emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7da28b8-4802-41bb-81c5-84ade40e4954",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " in case of danger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de8431a9-a20e-4a48-a013-ba4fa5ab8480",
+    "data": [
+      {
+        "text": "add a person\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " in an emergency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aa8a5d5-d307-45fb-8e4a-7a04c8cf548c",
+    "data": [
+      {
+        "text": "dad\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " is my emergency contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4b3da10-05c1-49ec-a885-10a23bd5f573",
+    "data": [
+      {
+        "text": "i want to add an emergency ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

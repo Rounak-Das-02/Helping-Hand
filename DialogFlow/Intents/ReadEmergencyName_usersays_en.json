@@ -1,0 +1,197 @@
+[
+  {
+    "id": "fcd89791-8aab-48b1-89b1-2538869b4ce5",
+    "data": [
+      {
+        "text": "what is the emergency number person\u0027s name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb42137a-3609-4c04-a429-768dd739cc27",
+    "data": [
+      {
+        "text": "tell me the emergency number person\u0027s name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fcc9ffb-2e17-41af-83a1-04a24a0b6c11",
+    "data": [
+      {
+        "text": "do you know who my emergency contact is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13ee9c01-08a2-401a-86ca-15ecda0555f5",
+    "data": [
+      {
+        "text": "do you know who is my emergency number contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "133b2760-b657-4f5d-b861-67444a5242de",
+    "data": [
+      {
+        "text": "who\u0027s emergency contact did i add?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b0cbcc1-58dc-405a-b0c4-743043fc2dfc",
+    "data": [
+      {
+        "text": "Did I put my daughter\u0027s emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76089faf-544d-45da-a0a1-ec230da96165",
+    "data": [
+      {
+        "text": "did I add my husband\u0027s emergency number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c5f9c48-b9e5-4ccb-bf39-a2ee8300f270",
+    "data": [
+      {
+        "text": "which person\u0027s number did i add in case of danger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dfee70c-889b-45d8-a8e1-3028cd6c655f",
+    "data": [
+      {
+        "text": "which person\u0027s number is in my emergency contact list?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b69a8c25-493e-4190-85ec-e3994a22d7fa",
+    "data": [
+      {
+        "text": "is dad\u0027s number my emergency contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd6be03c-f378-4340-97e5-40a15bcbf322",
+    "data": [
+      {
+        "text": "what is my emergency person\u0027s name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e4008a-8927-438b-b003-cab6f4bc24ad",
+    "data": [
+      {
+        "text": "what is the name of the person i can call in case of emergency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5467d3e3-5aba-458d-9dab-5cfb21c468c1",
+    "data": [
+      {
+        "text": "what is the name of the person i can call in case of danger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8984d30f-4311-49d1-96e2-e4e435d0a0cc",
+    "data": [
+      {
+        "text": "who is my emergency contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2849ea1e-6ae0-425c-b5c5-4a592aacd40f",
+    "data": [
+      {
+        "text": "who is the person I added for emergency number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

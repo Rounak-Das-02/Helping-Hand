@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d6655aec-b4a5-4d7c-b750-37eb75499a8d",
+    "data": [
+      {
+        "text": "I will have a meal soon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb389f4d-cc3d-45bf-b7b5-c9fe3d430e79",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e94078a4-8f29-4d17-9216-eacf3caa2b37",
+    "data": [
+      {
+        "text": "No, i didn\u0027t eat yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

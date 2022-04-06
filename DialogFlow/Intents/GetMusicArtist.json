@@ -1,0 +1,52 @@
+{
+  "id": "971f7ea7-f547-4b3d-b10f-48e08fb8f96a",
+  "name": "GetMusicArtist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ce4eb99b-eeec-4edc-8f29-ba6e550965f5",
+          "name": "musicartist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$musicartist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wow, even my favorite artist is $musicartist Which is your favorite song of thiers?",
+            "Wow. My favorite artist is Armaan Malik.",
+            "That\u0027s nice, which is your favorite song made by $musicartist ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "0efaee88-4b86-426f-a756-270240b9f967",
+    "data": [
+      {
+        "text": "my favorite is singer is ",
+        "userDefined": false
+      },
+      {
+        "text": "akon",
+        "meta": "@sys.music-artist",
+        "alias": "musicartist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3d2f5f1-1054-4c5d-b644-fc41aefa8cd6",
+    "data": [
+      {
+        "text": "my favorite musical artist is ",
+        "userDefined": false
+      },
+      {
+        "text": "shakira",
+        "meta": "@sys.music-artist",
+        "alias": "musicartist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

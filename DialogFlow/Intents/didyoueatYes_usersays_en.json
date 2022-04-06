@@ -1,0 +1,41 @@
+[
+  {
+    "id": "679264b6-82d9-4811-8d9c-be416e5c9340",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f1b699d-6892-4919-8794-2b9a0004594d",
+    "data": [
+      {
+        "text": "I had some snacks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b42ecc5-0f4d-407d-a890-cc256e7453ba",
+    "data": [
+      {
+        "text": "Yes, I ate already",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

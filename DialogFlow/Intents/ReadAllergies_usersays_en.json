@@ -1,0 +1,244 @@
+[
+  {
+    "id": "0d90b68d-5f34-4629-a72a-52a73b6e09c1",
+    "data": [
+      {
+        "text": "do i have an allergy to anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6882626-57a3-49cf-9c0d-b80a82ff5984",
+    "data": [
+      {
+        "text": "do i have any allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "657c5e41-df0c-44de-96c4-4fc8f9ee5b83",
+    "data": [
+      {
+        "text": "what am i allergic to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07a34b5f-06be-4d15-862b-2f44b6afff74",
+    "data": [
+      {
+        "text": "what is the allergy i get?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c81e2ed-a358-4b61-bd0e-216732b5f9b2",
+    "data": [
+      {
+        "text": "which allergy do i have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0616616f-baef-4417-a9a8-e835a302050f",
+    "data": [
+      {
+        "text": "what are my allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "309096f0-2c70-4cc8-b5d9-b36ccbef463d",
+    "data": [
+      {
+        "text": "am i allergic to anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "480d6ec2-11b0-4bec-92ba-69a212b26e8c",
+    "data": [
+      {
+        "text": "do i get an allergy to ",
+        "userDefined": false
+      },
+      {
+        "text": "lime",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa85be1-4e3e-4cec-b5ca-3c78bdb43bec",
+    "data": [
+      {
+        "text": "do i get an allergy to any food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df65e653-7542-4ccc-aae5-2609e3db1663",
+    "data": [
+      {
+        "text": "do i have an allergy for milk products?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "112e42e1-79e5-413d-8f8c-5690e62724fe",
+    "data": [
+      {
+        "text": "am I allergic to wheat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "985cb668-157f-4e16-8ef1-c72c132e0c69",
+    "data": [
+      {
+        "text": "am I allergic to gluten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "301d7342-db7a-4861-b0ad-5d87ae94dddc",
+    "data": [
+      {
+        "text": "I told you my allergies, what are they?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f095d7-3774-4ee7-8624-50638946f320",
+    "data": [
+      {
+        "text": "am I allergic to this food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67bf019a-1782-4b76-8330-cb960b7b7bc8",
+    "data": [
+      {
+        "text": "do I have an allergy to this food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7fee334-700c-441c-941c-a06388f13662",
+    "data": [
+      {
+        "text": "i found out i was allergic to something, what is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dac1df6b-69d0-4e93-9be6-64d4f62e7e4e",
+    "data": [
+      {
+        "text": "my allergies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c13a621-2b2d-4d52-9134-0c551490f163",
+    "data": [
+      {
+        "text": "do I have allergy to tomatoes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

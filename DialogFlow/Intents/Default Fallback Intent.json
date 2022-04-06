@@ -1,0 +1,212 @@
+{
+  "id": "4c83b2de-3f5e-48d3-b6e7-066f2b1539aa",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh I see. Did you eat yet? I feel like I\u0027m starving."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. Say it again?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that again?",
+            "I didn\u0027t get that.",
+            "I missed that."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. Say it again?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that again?",
+            "I didn\u0027t get that.",
+            "I missed that."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. Say it again?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that again?",
+            "I didn\u0027t get that.",
+            "I missed that."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. Say it again?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that again?",
+            "I didn\u0027t get that.",
+            "I missed that."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Um, let\u0027s see ... your request is a little weird, you know?",
+            "How about we change the subject?",
+            "I don\u0027t think it\u0027s in my range ... well, it can happen to anyone!",
+            "Try to browse the resources made available!",
+            "Let\u0027s help us, choose a topic that can deal with!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "buttons": [
+                        {
+                          "payload": "add info",
+                          "title": "Find out more",
+                          "type": "postback"
+                        }
+                      ],
+                      "title": "Add information",
+                      "subtitle": "Add information to your profile, I\u0027ll need it to help you in the future!",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fplus%20(1).png?alt\u003dmedia\u0026token\u003d2d7680bb-0f4a-4347-880a-ca7bfe1c536c"
+                    },
+                    {
+                      "subtitle": "Don\u0027t you remember something? Ask me to show you your information!",
+                      "title": "Show information",
+                      "buttons": [
+                        {
+                          "title": "Find out more",
+                          "payload": "show info",
+                          "type": "postback"
+                        }
+                      ],
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Finfo%20(1).png?alt\u003dmedia\u0026token\u003d935a3c60-c3c6-49ab-9e4a-3dc1e4f3288f"
+                    },
+                    {
+                      "title": "Edit information",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "payload": "edit info",
+                          "title": "Find out more"
+                        }
+                      ],
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fpen%20(1).png?alt\u003dmedia\u0026token\u003de02325e9-2a28-4ca6-88f1-aa5e9163fe93",
+                      "subtitle": "HAre you doing something wrong? Edit your profile information!"
+                    },
+                    {
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fclose%20(1).png?alt\u003dmedia\u0026token\u003d6ccbf373-b988-4a68-bda4-61a1af42248f",
+                      "buttons": [
+                        {
+                          "payload": "delete info",
+                          "type": "postback",
+                          "title": "Find out more"
+                        }
+                      ],
+                      "subtitle": "Delete unnecessary information from your profile!",
+                      "title": "Delete information"
+                    },
+                    {
+                      "subtitle": "Not sure what to do? Let\u0027s train a little together!",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "Find out more",
+                          "payload": "Training"
+                        }
+                      ],
+                      "title": "Training",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/amico-avkdjm.appspot.com/o/card_icon%2Fgym%20(1).png?alt\u003dmedia\u0026token\u003d91a9e1a9-6bd5-4243-95f2-c8404a61262c"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

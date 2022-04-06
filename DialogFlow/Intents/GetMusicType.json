@@ -1,0 +1,53 @@
+{
+  "id": "ce88cb59-fbed-42a0-ad41-20c8bfc968bc",
+  "name": "GetMusicType",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82ae9678-024f-40ef-b613-4ab7f2d6e87c",
+          "name": "genre",
+          "required": false,
+          "dataType": "@genre",
+          "value": "$genre",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh that\u0027s nice. My favorite type of music is $genre too. What\u0027s your fav artist?",
+            "That\u0027s interesting. My favorite type of music is hip-hop.",
+            "That\u0027s nice, I like pop music. What\u0027s your fav song from $genre genre?",
+            "That\u0027s a good choice. Which is your favorite song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

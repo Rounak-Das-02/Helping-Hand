@@ -1,0 +1,71 @@
+[
+  {
+    "id": "a3593eeb-54f8-41d7-b721-7a1ec87eed99",
+    "data": [
+      {
+        "text": "I listen to ",
+        "userDefined": false
+      },
+      {
+        "text": "blues",
+        "meta": "@genre",
+        "alias": "genre",
+        "userDefined": true
+      },
+      {
+        "text": " songs a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feada649-9cf4-4868-b411-1ba009b2f703",
+    "data": [
+      {
+        "text": "my favorite ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " of music is ",
+        "userDefined": false
+      },
+      {
+        "text": "rock and pop",
+        "meta": "@genre",
+        "alias": "genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777a27a0-fdda-4d93-a579-9d4b1d9bc7af",
+    "data": [
+      {
+        "text": "my favorite type of music is ",
+        "userDefined": false
+      },
+      {
+        "text": "blues",
+        "meta": "@genre",
+        "alias": "genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
