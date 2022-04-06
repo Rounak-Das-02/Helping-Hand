@@ -1,0 +1,171 @@
+[
+  {
+    "id": "6239f234-d906-4ea8-93ba-951f269c810d",
+    "data": [
+      {
+        "text": "I think I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "d99300c5-c0ad-4988-a7e1-c723e89f886a",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "3bac59d5-6a9a-4135-b65d-680937e75c6b",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "e31a81de-fab3-4954-8c70-2d53a0d82dee",
+    "data": [
+      {
+        "text": "I am in ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "f0935eed-f0c6-40ea-b44f-2bab917da968",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "d595631d-873f-41f7-8055-e03a8c9a69a1",
+    "data": [
+      {
+        "text": "you know I love you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "1d97c594-c02e-4d8a-b0c1-73a8ce9d58ab",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "adore you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "2c9cf748-6a51-4d15-b76c-849a0c444a84",
+    "data": [
+      {
+        "text": "love",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "7cecdba4-6137-48f2-80f1-85165f36b2bc",
+    "data": [
+      {
+        "text": "loving",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  }
+]

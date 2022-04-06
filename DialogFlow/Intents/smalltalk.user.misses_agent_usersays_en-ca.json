@@ -1,0 +1,137 @@
+[
+  {
+    "id": "4c462b88-dd1f-4bec-9a80-81f284acc233",
+    "data": [
+      {
+        "text": "miss",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "2cba95d5-c2c0-4b2a-9849-765ffc9a7c50",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "userDefined": false
+      },
+      {
+        "text": " you much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "4afe3346-2403-4ccf-b145-b93433b1a210",
+    "data": [
+      {
+        "text": "I\u0027ve ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "b6549c51-6519-49c4-855e-257de31aff5e",
+    "data": [
+      {
+        "text": "already ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "7538e8cc-fe70-446d-9c78-eac8b194412a",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "df384d6b-5ae8-4ca6-9b8e-9f434f774765",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "8c6c376d-34f6-4d1c-b30b-10540a1001b9",
+    "data": [
+      {
+        "text": "missing you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  }
+]

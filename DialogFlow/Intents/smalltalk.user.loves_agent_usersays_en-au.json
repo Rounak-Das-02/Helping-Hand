@@ -1,0 +1,171 @@
+[
+  {
+    "id": "c5e8ef81-52e5-4db3-8222-c88e7bd50e01",
+    "data": [
+      {
+        "text": "I think I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9ec44c19-709d-4949-af72-de7c50e224b3",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fa35aeb5-c1aa-4175-a482-17baa41cbb64",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4fd33487-276f-45ef-9101-6b15a8c3227b",
+    "data": [
+      {
+        "text": "I am in ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "65267d77-03b8-4f02-91d9-a1b316096f79",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": false
+      },
+      {
+        "text": " you too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "18cdde9b-d355-4457-8cf9-70bc47f347df",
+    "data": [
+      {
+        "text": "you know I love you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "1f08fa6b-487e-4ca0-ba50-546b2758d810",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "adore you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5988990d-5414-44a1-a16f-39d2096bcafa",
+    "data": [
+      {
+        "text": "love",
+        "userDefined": true
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6af799f4-99bd-4985-aabd-93940a5fa87f",
+    "data": [
+      {
+        "text": "loving",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

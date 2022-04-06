@@ -1,0 +1,125 @@
+[
+  {
+    "id": "588cb7a1-c400-4e86-9111-d62aa5d54bbe",
+    "data": [
+      {
+        "text": "happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "e4c24fdb-9a1c-4bf0-88a5-21768168b2c9",
+    "data": [
+      {
+        "text": "if you\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "userDefined": false
+      },
+      {
+        "text": " then I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "048c0290-3b3e-453a-a370-56847f627a6d",
+    "data": [
+      {
+        "text": "I\u0027m happy to see you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "8244f273-ea35-4ae2-8e1e-48adb72032fd",
+    "data": [
+      {
+        "text": "I\u0027m happy to help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "f27ed0ce-c4c7-4edb-a686-a8bfd5424ae0",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "648eed8e-c43c-4ba0-8b77-e87f6c79d056",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "userDefined": false
+      },
+      {
+        "text": " to see you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "62beb4cc-903d-4226-9190-c1746a929b0e",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "userDefined": false
+      },
+      {
+        "text": " for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  }
+]
