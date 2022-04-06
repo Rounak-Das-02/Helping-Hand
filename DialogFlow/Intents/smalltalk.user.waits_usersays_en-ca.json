@@ -1,0 +1,67 @@
+[
+  {
+    "id": "68413314-bd73-4f1e-80e4-462151dc2785",
+    "data": [
+      {
+        "text": "I\u0027m waiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "bbccc6e5-1eac-4e1f-b388-7d746ab8843e",
+    "data": [
+      {
+        "text": "still waiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "e1b2c339-434b-4880-9cea-faf011d97951",
+    "data": [
+      {
+        "text": "I can\u0027t wait anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "d7fb1f57-e3af-43a1-9f00-d19dbe0fb04c",
+    "data": [
+      {
+        "text": "how long do I have to wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  },
+  {
+    "id": "9ef88ee3-4680-44f8-86ad-fd4a9980dfc6",
+    "data": [
+      {
+        "text": "I\u0027ll wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-ca",
+    "updated": 0
+  }
+]
