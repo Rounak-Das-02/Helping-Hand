@@ -1,0 +1,171 @@
+[
+  {
+    "id": "1bfb4e14-8aac-420e-9ae6-3431a43b8756",
+    "data": [
+      {
+        "text": "let\u0027s get married",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "46d8409c-ed1a-41b7-b2dc-da018ac4e754",
+    "data": [
+      {
+        "text": "we should marry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "3ffd3eed-32d0-468f-8d83-fa1cb74649bf",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "userDefined": true
+      },
+      {
+        "text": " you marry ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "edcc2788-f4ef-4284-90bb-d1bb1358f755",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "wife",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "ebc73c59-4c1d-4166-ab7e-fe626b1fd5b5",
+    "data": [
+      {
+        "text": "be my husband",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "67628010-23fc-4f33-b992-4c0d636751c1",
+    "data": [
+      {
+        "text": "would you like to marry ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "37e6330a-5c93-430a-b2ac-a3da5b0d655a",
+    "data": [
+      {
+        "text": "marry ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "a0668227-d503-4e3c-ba00-08bd1458015d",
+    "data": [
+      {
+        "text": "marry me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "526b93dd-bf0f-4793-9e37-327242734779",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marry you",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  }
+]
