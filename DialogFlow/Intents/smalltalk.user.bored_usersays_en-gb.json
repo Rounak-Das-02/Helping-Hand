@@ -1,0 +1,118 @@
+[
+  {
+    "id": "a3fdf6db-8204-41c4-b437-8743f6c1a1b6",
+    "data": [
+      {
+        "text": "bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "c2b1dcad-d0ba-4608-8fc3-fd8ddf237ee2",
+    "data": [
+      {
+        "text": "boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "1a358e52-8e19-49f4-9828-fb4f5a8826bf",
+    "data": [
+      {
+        "text": "that was ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "4055c00a-6d36-4d96-b0b4-3f0295830b8a",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "890203e5-2313-4ddb-8121-9c0c13773b1c",
+    "data": [
+      {
+        "text": "it bores me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "746c1fec-18d9-48c3-9a85-4f6b59240977",
+    "data": [
+      {
+        "text": "I am getting bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "1b9d2643-8a24-4ebf-a2f5-ea904f1ec032",
+    "data": [
+      {
+        "text": "this is ",
+        "userDefined": false
+      },
+      {
+        "text": "boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  },
+  {
+    "id": "11d9d5d5-95de-4593-8846-bf81b35a7f20",
+    "data": [
+      {
+        "text": "I\u0027m bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-gb",
+    "updated": 0
+  }
+]
