@@ -21,7 +21,7 @@ const UNEEQ_URL = "https://api.us.uneeq.io"; // example UneeQ URL (Australia)
 The UneeQ conversation identifier.
 This value should be the same as the one used when generating a token (above).
  */
-const UNEEQ_CONVERSATION_ID = "d8474b6d-da2b-453c-983c-729cb266bebb"; // example conversation id only
+const UNEEQ_CONVERSATION_ID = "773cce0d-7259-41fb-9099-79422ff983fe"; // example conversation id only
 
 const msgDisplay = document.getElementById("msg");
 
@@ -80,7 +80,7 @@ function messageHandler(msg) {
         answerAvatar: "{}",
         sessionIdJwt: jwt.sign(
           sessionId,
-          "0CE64CE7-8B25-97B3-7918-C2E45FCCCE53"
+          "B6BB6C93-EB56-152E-AB91-4CFE86E769D7"
         ),
       },
       {
